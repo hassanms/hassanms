@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm an enthusiastic Full Stack Engineer 👨🏻‍💻 currently working for [Atarim](https://atarim.io) 🎓. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
+I'm an enthusiastic Full Stack Engineer 👨🏻‍💻 currently working for [Atarim](https://atarim.io) ⚡. As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Blockchain, and AI. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
 
 With a keen eye for detail, I focus on ensuring the highest quality software possible, without losing sight of the bigger picture. My experience includes extensive work with Full Stack Web Development (Next.js, Chakra UI, GraphCMS, React, Node, Redux, Sagas, Material UI, Laravel), Blockchain (Solidity, Ethers, Hardhat, Web3, Remix, Metamask), Artificial Intelligence (Python, Django, Tensorflow, Scikit-learn, Pandas, Numpy, OpenCV, Colab), and DevOps (EC2, RDS, S3, Route53, ECS). 
 
