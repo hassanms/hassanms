@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm an enthusiastic Full Stack Engineer 👨🏻‍💻 currently consulting for [Atarim](https://atarim.io) ⚡.
+I'm an enthusiastic Full Stack Engineer 👨🏻‍💻 currently leading for [Tech Emulsion](https://techemulsion.com) ⚡.
 
 I have nothing significant on GitHub because I mostly write code that makes money. 
 
