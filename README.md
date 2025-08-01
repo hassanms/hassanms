@@ -5,9 +5,9 @@
 
 ### Glad to see you here! &nbsp; 
 
-Founder at [Tech Emulsion](https://techemulsion.com) ⚡.
+Founder at [Tech Emulsion](https://techemulsion.com) 
 
-We Imagineer breakthrough <strong>SaaS</strong>, <strong>Mobile Apps</strong>, and <strong>AI agents</strong> for your business
+We Imagineer breakthrough <strong>SaaS</strong>, <strong>Mobile Apps</strong>, and <strong>AI agents</strong> for your business.
 
 Tech Emulsion designs, builds, and scales SaaS, mobile experiences, and AI agents that streamline operations, delight users, and unlock new growth.
 
