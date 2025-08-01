@@ -5,13 +5,13 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm an enthusiastic Full Stack Engineer 👨🏻‍💻 currently leading [Tech Emulsion](https://techemulsion.com) ⚡.
+👨🏻‍💻 Founder at [Tech Emulsion](https://techemulsion.com) ⚡.
 
-I have nothing significant on GitHub because I mostly write code that makes money. 
+We Imagineer breakthrough <strong>SaaS</strong>, <strong>Mobile Apps</strong>, and <strong>AI agents</strong> for your business
 
-As a problem solver, I thrive on challenges and have a diverse skill set in Full Stack Development, Gen-AI, and Blockchain. I excel at translating client requirements into features and have exceptional communication skills, enabling me to quickly understand other people's perspectives without them having to repeat themselves.
+Tech Emulsion designs, builds, and scales SaaS, mobile experiences, and AI agents that streamline operations, delight users, and unlock new growth.
 
-If you're a startup based out of Silicon Valley, feel free to reach out.
+On top of all, we help you make <strong>MONEY</strong>.
 
 
 <!--
